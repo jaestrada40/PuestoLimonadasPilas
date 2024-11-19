@@ -1,0 +1,14 @@
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\bin\Debug\net8.0\PuestoLimonadaPila.exe
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\bin\Debug\net8.0\PuestoLimonadaPila.deps.json
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\bin\Debug\net8.0\PuestoLimonadaPila.runtimeconfig.json
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\bin\Debug\net8.0\PuestoLimonadaPila.dll
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\bin\Debug\net8.0\PuestoLimonadaPila.pdb
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\PuestoLimonadaPila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\PuestoLimonadaPila.AssemblyInfoInputs.cache
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\PuestoLimonadaPila.AssemblyInfo.cs
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\PuestoLimonadaPila.csproj.CoreCompileInputs.cache
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\PuestoLimonadaPila.dll
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\refint\PuestoLimonadaPila.dll
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\PuestoLimonadaPila.pdb
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\PuestoLimonadaPila.genruntimeconfig.cache
+C:\Users\jaest\source\repos\PuestoLimonadaPila\PuestoLimonadaPila\obj\Debug\net8.0\ref\PuestoLimonadaPila.dll
